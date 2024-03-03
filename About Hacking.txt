@@ -1,0 +1,56 @@
+<-----------------RECONNAISSANCE---------------------->
+Httrack :- Website copier
+The Harvester :- Discovering and leaveraging e-mail address
+Whois
+Netcraft
+Host
+NsLookup
+DIG
+Fierce
+MetaGooFil
+ThreatAgent-- It's good
+Maltego--  We learn
+
+<--------------------SCANNING-------------------------->
+Nmap
+Ping
+Ping sweep
+Using Nmap to TCP scan -- More time
+Using Nmap to SYN scan -- Less time
+Using Nmap to UDP scan -- 
+Using Nmap to XMAS scan ---|
+Using Nmap to NULL scan -For finding loopholes in machine
+Nessus for vulrnability scanning
+OpenVAS 
+
+<------------------Exploitation------------------------>
+Medusa and Hydra -- Online password cracking
+JTR--For password cracking
+RainbowCrack -- Pasword cracking tool
+Metasploit:In this having a payloads like important payloads are is BIND, REVERSE, METERPRETER
+Samdump2 is using for unlock the SAM file who is locked in defualt
+Highlight:-Windows OS For password using SAM file but in LINUX OS is using shodow file
+Wireshark: Sniffing network traffic
+Macof
+Armitage's:-Hail mary 
+Ettercap - Man-in-the-middle attack
+
+<---------------Social Engineering--------------------->
+SET(social-engineer toolkit)
+In SET, Website Attack Vestors
+The credential harvester
+
+<--------------Web-based Exploitation------------------>
+Nikto
+W3af
+WebScarab
+Code Injection attacks
+XSS Attack
+ZAP
+WebGoat
+
+<--------------------Post-Exploitation----------------->
+NetCat,Ncat,Socat
+Cryptcat
+Rootkits
+Hacker Defender
